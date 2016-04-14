@@ -1,2 +1,2 @@
 # tales
-http://seung5.github.io/tales
+http://Seung5.github.io/tales
